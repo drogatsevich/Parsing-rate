@@ -1,0 +1,6 @@
+logging:
+  level:
+    by.rates.nbrb.api.client : DEBUG
+    by.rates.nbrb.controller : DEBUG
+  file:
+    name: logs/ServiceLog.log
